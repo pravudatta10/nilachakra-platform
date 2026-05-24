@@ -1,0 +1,15 @@
+[submodule "services/nilachakra-brain"]
+	path = services/nilachakra-brain
+	url = https://github.com/pravudatta10/nilachakra-brain.git
+[submodule "services/nilachakra-repository"]
+	path = services/nilachakra-repository
+	url = https://github.com/pravudatta10/nilachakra-repository.git
+[submodule "services/nilachakra-gateway"]
+	path = services/nilachakra-gateway
+	url = https://github.com/pravudatta10/nilachakra-gateway.git
+[submodule "frontend/nilachakra-ui"]
+	path = frontend/nilachakra-ui
+	url = https://github.com/pravudatta10/nilachakra-ui.git
+[submodule "services/nilachakra-auth-service"]
+	path = services/nilachakra-auth-service
+	url = https://github.com/pravudatta10/nilachakra-brain.git
